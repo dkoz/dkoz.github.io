@@ -118,6 +118,11 @@ interface Social {
   twitter?: string;
 
   /**
+   * Discord
+   */
+  discord?: string;
+
+  /**
    * Mastodon
    */
   mastodon?: string;
